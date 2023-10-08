@@ -17,14 +17,14 @@
   --pink: #ff79c6;
   --red: #ff5555;
   --orange: #ffb86c;
-  --yellow: #ffffAA;
+  --yellow: #d2aa39;
   --green: #50fa7b;
   --teal: #20c997;
   --cyan: #8be9fd;
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #343a40;
+  --primary: #6c757d;
   --secondary: #6c757d;
   --success: #50fa7b;
   --info: #8be9fd;
@@ -159,7 +159,7 @@ sup {
 }
 
 a {
-  color: #343a40;
+  color: #6c757d;
   text-decoration: none;
   background-color: transparent;
 }
@@ -4310,7 +4310,7 @@ input[type=button].btn-block {
   color: #fff;
 }
 .navbar-dark .navbar-nav .nav-link {
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 160, 0.5);
 }
 .navbar-dark .navbar-nav .nav-link:hover, .navbar-dark .navbar-nav .nav-link:focus {
   color: rgba(255, 255, 255, 0.75);
@@ -9797,7 +9797,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #343a40 !important;
+  color: #6c757d !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10000,7 +10000,7 @@ h3 {
 }
 body {
   padding-top: 3.375rem;
-  color: #f8f8f2;
+  color: #d2aa39; /*Text color*/
   background-color: #282a36;
 }
 
