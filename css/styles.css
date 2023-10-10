@@ -10131,3 +10131,8 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
